@@ -4,7 +4,7 @@
 
 ;; Author: Eki Zhang <liuyinz95@gmail.com>
 ;; Maintainer: Eki Zhang <liuyinz95@gmail.com>
-;; Version: 0.1.0
+;; Version: 0.2.0
 ;; Package-Requires: ((emacs "29.1"))
 ;; Keywords: convenience, editing
 ;; Homepage: https://github.com/eki3z/coercion.el
