@@ -1,13 +1,13 @@
 ;;; coercion.el --- Naming convention style switch -*- lexical-binding: t -*-
 
-;; Copyright (C) 2023, 2024 liuyinz
+;; Copyright (C) 2023-2025 Eki Zhang
 
-;; Author: liuyinz <liuyinz95@gmail.com>
-;; Maintainer: liuyinz <liuyinz95@gmail.com>
+;; Author: Eki Zhang <liuyinz95@gmail.com>
+;; Maintainer: Eki Zhang <liuyinz95@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "29.1"))
 ;; Keywords: convenience, editing
-;; Homepage: https://github.com/liuyinz/coercion.el
+;; Homepage: https://github.com/eki3z/coercion.el
 
 ;; This file is not a part of GNU Emacs.
 
